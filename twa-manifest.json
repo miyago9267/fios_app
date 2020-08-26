@@ -1,0 +1,26 @@
+{
+  "packageId": "xyz.appmaker.ramqhn",
+  "host": "fios.fssh.khc.edu.tw",
+  "name": "FIOS",
+  "launcherName": "FIOS",
+  "display": "standalone",
+  "themeColor": "#536878",
+  "navigationColor": "#000000",
+  "backgroundColor": "#000000",
+  "enableNotifications": false,
+  "startUrl": "/index",
+  "iconUrl": "https://fios.fssh.khc.edu.tw/logo.png",
+  "maskableIconUrl": "https://fios.fssh.khc.edu.tw/logo.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "NEW APP",
+  "webManifestUrl": "https://fios.fssh.khc.edu.tw/manifest.json",
+  "fallbackType": "customtabs",
+  "appVersion": "1"
+}

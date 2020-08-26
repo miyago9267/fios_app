@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="appName" translatable="false">FIOS</string>
+    <string name="assetStatements" translatable="false">[{ \"relation\": [\"delegate_permission/common.handle_all_urls\"],\"target\": {\"namespace\": \"web\", \"site\": \"https://fios.fssh.khc.edu.tw\"}}]</string>
+
+    <color name="backgroundColor">#000000</color>
+    <color name="colorPrimary">#536878</color>
+
+    <bool name="enableNotification">false</bool>
+
+    <string name="fallbackType" translatable="false">customtabs</string>
+    <string name="generatorApp" translatable="false">NEW APP</string>
+    <string name="hostName" translatable="false">fios.fssh.khc.edu.tw</string>
+    <string name="launchUrl" translatable="false">https://fios.fssh.khc.edu.tw/index</string>
+    <string name="launcherName" translatable="false">FIOS</string>
+
+    <color name="navigationColor">#000000</color>
+
+    <string name="providerAuthority" translatable="false">com.fios.fssh.fileprovider</string>
+
+    <integer name="splashScreenFadeOutDuration">300</integer>
+
+    <string name="webManifestUrl" translatable="false">https://fios.fssh.khc.edu.tw/manifest.json</string>
+
+</resources>
